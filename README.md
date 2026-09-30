@@ -1,6 +1,6 @@
 ### Halo semua! 👋
 
-Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di bidang Web, Mobile, dan IoT[cite: 2]! Saya juga merupakan Owner dari [Rupamedia](https://rupamedia.my.id)[cite: 1].
+Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di bidang Web, Mobile, dan IoT! Saya juga merupakan Owner dari [Rupamedia](https://rupamedia.my.id).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsriBeng&color=blue)
 
