@@ -3,7 +3,8 @@
 Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di bidang Web, Mobile, dan IoT! Saya juga merupakan Owner dari [Rupamedia](https://rupamedia.my.id).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AsriBeng&color=blue)
-![Base Forks](https://img.shields.io/badge/forks-20%20%2B-blue?style=flat&square)![GitHub Forks](https://img.shields.io/github/forks/AsriBeng/AsriBeng?label=&color=blue)
+![Forks](https://img.shields.io/badge/community_forks-20%2B-blue)
+![GitHub Forks](https://img.shields.io/github/forks/AsriBeng/AsriBeng?label=repo%20forks&color=blue)
 
 ### Tech Stack
 
