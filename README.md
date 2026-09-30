@@ -41,9 +41,3 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
   <img src="https://cdn.simpleicons.org/laragon" alt="laragon" width="45" height="45"/>
 </p>
 
-
-<details>
-<summary><b>📊 My GitHub Statistics (Click to expand!)</b></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=AsriBeng&show_icons=true&theme=tokyonight&hide_border=true" alt="AsriBeng's GitHub Stats" />
-</details>
