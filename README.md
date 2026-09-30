@@ -8,6 +8,8 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
 
 <p align="left">
   <!-- Bahasa & Core Tech -->
+  <img src="https://cdn.simpleicons.org/php" alt="php-native" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/html5" alt="html-native" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
