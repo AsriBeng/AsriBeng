@@ -8,36 +8,36 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
 
 <p align="left">
   <!-- Bahasa & Core Tech -->
-  <img src="https://cdn.simpleicons.org/javascript" alt="javascript" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/typescript" alt="typescript" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/php" alt="php" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/python" alt="python" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/html5" alt="html5" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/css3" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 
   <!-- Framework Web & Backend -->
-  <img src="https://cdn.simpleicons.org/astro" alt="astro" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/react" alt="react" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/vuedotjs" alt="vue" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/laravel" alt="laravel" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/codeigniter" alt="codeigniter" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodejs" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/fastapi" alt="fastapi" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/wordpress" alt="wordpress" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 
   <!-- Mobile Development -->
-  <img src="https://cdn.simpleicons.org/flutter" alt="flutter" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/framework7" alt="framework7" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framework7/framework7-original.svg" alt="framework7" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/apachecordova" alt="cordova" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/expo" alt="expo" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="45" height="45"/>
 
   <!-- Database, IoT & Tools -->
-  <img src="https://cdn.simpleicons.org/postgresql" alt="postgresql" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="mysql" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/arduino" alt="arduino" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/git" alt="git" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/vscode" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/laragon" alt="laragon" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/330813/laragon.svg" alt="laragon" width="45" height="45"/>
 </p>
 
 
