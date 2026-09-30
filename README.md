@@ -28,7 +28,7 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
   <!-- Mobile Development -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framework7/framework7-original.svg" alt="framework7" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecordova/apachecordova-original.svg" alt="cordova" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecordova/apachecordova-original.svg" alt="apachecordova" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="45" height="45"/>
 
   <!-- Database, IoT & Tools -->
@@ -37,8 +37,9 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laragon/laragon-original.svg" alt="laragon" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/330813/laragon.svg" alt="laragon" width="45" height="45"/>
 </p>
+
 
 <details>
 <summary><b>📊 My GitHub Statistics (Click to expand!)</b></summary>
