@@ -37,7 +37,7 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://www.svgrepo.com/show/330813/laragon.svg" alt="laragon" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/laragon" alt="laragon" width="45" height="45"/>
 </p>
 
 
