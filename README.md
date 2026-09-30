@@ -8,8 +8,6 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
 
 <p align="left">
   <!-- Bahasa & Core Tech -->
-  <img src="https://cdn.simpleicons.org/php" alt="php-native" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/html5" alt="html-native" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -23,6 +21,7 @@ Perkenalkan nama saya **Asri Sobirin**, seorang Software Engineer yang fokus di 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="45" height="45"/>
+  <img src="https://nativephp.com/favicon.svg" alt="nativephp" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/wordpress" alt="wordpress" width="45" height="45"/>
